@@ -1,3 +1,3 @@
-cd /d D:\Software\TeamRed MIner\teamredminer-v0.8.1-win
-start cmd.exe /c start_hiveon_eth.bat
+cd /d PATH TO MINER FOLDER
+start cmd.exe /c start_miner_eth.bat <- (change to fit your miner) 
 exit 0
